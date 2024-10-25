@@ -1,7 +1,7 @@
 #find last digit of the input number
-# number=int(input("Enter a number"))
-# last_digit=number%9
-# print(last_digit)
+number=int(input("Enter a number"))
+last_digit=number%9
+print(last_digit)
 
 
 #check whether a number is odd or even
