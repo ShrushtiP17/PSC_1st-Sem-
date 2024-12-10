@@ -1,10 +1,10 @@
-# x=int(input("enter age of the person"))
-# if x<18:
-#     print("Teenager")
-# if x>18 and x<30:
-#     print("Adult")
-# elif x>30:
-#     print("Senior")
+x=int(input("enter age of the person"))
+if x<18:
+     print("Teenager")
+if x>18 and x<30:
+     print("Adult")
+elif x>30:
+     print("Senior")
 
 def age(age1):
     if age1<18:
